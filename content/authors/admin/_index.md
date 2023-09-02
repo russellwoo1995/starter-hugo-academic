@@ -35,11 +35,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Southeast University
-      institution: Electronic Information
+    - course: MEng in Electronic Information
+      institution: Southeast University
       year: 2020-2023
-    - course: MEng in Monash University
-      institution: Health Science
+    - course: MEng in Health Science
+      year: 2021-2023
+      institution: Monash University
       year: 2021-2023
     - course: BSc in Electronic Information Science of Technology
       institution: Chongqing University of Technology
