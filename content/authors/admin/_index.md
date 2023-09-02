@@ -21,7 +21,7 @@ organizations:
   - name: Southeast University
     url: https://www.seu.edu.cn/english/22456/list.htm
   - name:  Monash University
-    url: https://https://www.monash.edu/
+    url: https://www.monash.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My master's research focuses on  medical image analysis, CT reconstruction and deep learning.
@@ -82,5 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a third-year Master student in Medical Imaging and Artificial Intelligence Laboratory in Southeast University, my research focus on a method of image truncation, a method of cone beam CT image reconstruction and a deep learning based on the Dual-domain Residual for Sparse-View reconstruction.I also learned and mastered some fundamentals of programming, including C/C++, Python, MATLAB, TensorFlow/Pytorch framework.
 {style="text-align: justify;"}
